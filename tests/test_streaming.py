@@ -1,7 +1,6 @@
 from typing import Iterator, AsyncIterator
 
 import pytest
-
 from openai._streaming import SSEDecoder
 
 
